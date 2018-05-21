@@ -1,5 +1,7 @@
 # Retinal Optical Coherence Tomography Classification
-
+## Model
+![alt text](https://github.com/pss1207/retinal_oct_classification/blob/master/model.png)
+## Results
 Pytorch implementation for retinal OCT images of Kaggle
 ![alt text](https://github.com/pss1207/retinal_oct_classification/blob/master/test_results.png)
 ![alt text](https://github.com/pss1207/retinal_oct_classification/blob/master/confusion_matrix.png)
